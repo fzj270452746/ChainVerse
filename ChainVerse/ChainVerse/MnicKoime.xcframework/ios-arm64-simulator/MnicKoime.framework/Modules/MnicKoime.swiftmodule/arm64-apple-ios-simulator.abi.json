@@ -1,0 +1,5597 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "MnicKoime",
+    "printedName": "MnicKoime",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MnicKoime"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ChainConnectView",
+        "printedName": "ChainConnectView",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "ckidte",
+            "printedName": "ckidte",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MnicKoime.Fctre?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Fctre",
+                    "printedName": "MnicKoime.Fctre",
+                    "usr": "s:9MnicKoime5FctreV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime16ChainConnectViewC6ckidte023_71068053D8C25459F6F693I8A8DBBD4ELLAA5FctreVSgvp",
+            "mangledName": "$s9MnicKoime16ChainConnectViewC6ckidte023_71068053D8C25459F6F693I8A8DBBD4ELLAA5FctreVSgvp",
+            "moduleName": "MnicKoime",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "mciosk",
+            "printedName": "mciosk",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any MnicKoime.Jicnyvy)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Jicnyvy",
+                    "printedName": "any MnicKoime.Jicnyvy",
+                    "usr": "s:9MnicKoime7JicnyvyP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime16ChainConnectViewC6mciosk023_71068053D8C25459F6F693I8A8DBBD4ELLAA7Jicnyvy_pSgvp",
+            "mangledName": "$s9MnicKoime16ChainConnectViewC6mciosk023_71068053D8C25459F6F693I8A8DBBD4ELLAA7Jicnyvy_pSgvp",
+            "moduleName": "MnicKoime",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MnicKoime@objc(cs)ChainConnectView(im)viewDidLoad",
+            "mangledName": "$s9MnicKoime16ChainConnectViewC11viewDidLoadyyF",
+            "moduleName": "MnicKoime",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLayoutSubviews",
+            "printedName": "viewDidLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MnicKoime@objc(cs)ChainConnectView(im)viewDidLayoutSubviews",
+            "mangledName": "$s9MnicKoime16ChainConnectViewC21viewDidLayoutSubviewsyyF",
+            "moduleName": "MnicKoime",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@MnicKoime@objc(cs)ChainConnectView(py)shouldAutorotate",
+            "mangledName": "$s9MnicKoime16ChainConnectViewC16shouldAutorotateSbvp",
+            "moduleName": "MnicKoime",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@MnicKoime@objc(cs)ChainConnectView(im)shouldAutorotate",
+                "mangledName": "$s9MnicKoime16ChainConnectViewC16shouldAutorotateSbvg",
+                "moduleName": "MnicKoime",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@MnicKoime@objc(cs)ChainConnectView(py)supportedInterfaceOrientations",
+            "mangledName": "$s9MnicKoime16ChainConnectViewC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "MnicKoime",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@MnicKoime@objc(cs)ChainConnectView(im)supportedInterfaceOrientations",
+                "mangledName": "$s9MnicKoime16ChainConnectViewC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "MnicKoime",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ChainConnectView",
+                "printedName": "MnicKoime.ChainConnectView",
+                "usr": "c:@M@MnicKoime@objc(cs)ChainConnectView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MnicKoime@objc(cs)ChainConnectView(im)initWithNibName:bundle:",
+            "mangledName": "$s9MnicKoime16ChainConnectViewC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "MnicKoime",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MnicKoime.ChainConnectView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ChainConnectView",
+                    "printedName": "MnicKoime.ChainConnectView",
+                    "usr": "c:@M@MnicKoime@objc(cs)ChainConnectView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MnicKoime@objc(cs)ChainConnectView(im)initWithCoder:",
+            "mangledName": "$s9MnicKoime16ChainConnectViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "MnicKoime",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MnicKoime@objc(cs)ChainConnectView",
+        "mangledName": "$s9MnicKoime16ChainConnectViewC",
+        "moduleName": "MnicKoime",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MnicKoime"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Sucnh",
+        "printedName": "Sucnh",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "r0",
+            "printedName": "r0",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MnicKoime.Sucnh.Type) -> MnicKoime.Sucnh",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Sucnh",
+                    "printedName": "MnicKoime.Sucnh",
+                    "usr": "s:9MnicKoime5SucnhO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MnicKoime.Sucnh.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Sucnh",
+                        "printedName": "MnicKoime.Sucnh",
+                        "usr": "s:9MnicKoime5SucnhO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9MnicKoime5SucnhO2r0yA2CmF",
+            "mangledName": "$s9MnicKoime5SucnhO2r0yA2CmF",
+            "moduleName": "MnicKoime",
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "r1",
+            "printedName": "r1",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MnicKoime.Sucnh.Type) -> MnicKoime.Sucnh",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Sucnh",
+                    "printedName": "MnicKoime.Sucnh",
+                    "usr": "s:9MnicKoime5SucnhO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MnicKoime.Sucnh.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Sucnh",
+                        "printedName": "MnicKoime.Sucnh",
+                        "usr": "s:9MnicKoime5SucnhO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9MnicKoime5SucnhO2r1yA2CmF",
+            "mangledName": "$s9MnicKoime5SucnhO2r1yA2CmF",
+            "moduleName": "MnicKoime",
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Var",
+            "name": "r2",
+            "printedName": "r2",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MnicKoime.Sucnh.Type) -> MnicKoime.Sucnh",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Sucnh",
+                    "printedName": "MnicKoime.Sucnh",
+                    "usr": "s:9MnicKoime5SucnhO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MnicKoime.Sucnh.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Sucnh",
+                        "printedName": "MnicKoime.Sucnh",
+                        "usr": "s:9MnicKoime5SucnhO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9MnicKoime5SucnhO2r2yA2CmF",
+            "mangledName": "$s9MnicKoime5SucnhO2r2yA2CmF",
+            "moduleName": "MnicKoime",
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Sucnh",
+                "printedName": "MnicKoime.Sucnh",
+                "usr": "s:9MnicKoime5SucnhO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Sucnh",
+                "printedName": "MnicKoime.Sucnh",
+                "usr": "s:9MnicKoime5SucnhO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime5SucnhO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s9MnicKoime5SucnhO2eeoiySbAC_ACtFZ",
+            "moduleName": "MnicKoime",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime5SucnhO9hashValueSivp",
+            "mangledName": "$s9MnicKoime5SucnhO9hashValueSivp",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime5SucnhO9hashValueSivg",
+                "mangledName": "$s9MnicKoime5SucnhO9hashValueSivg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime5SucnhO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s9MnicKoime5SucnhO4hash4intoys6HasherVz_tF",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9MnicKoime5SucnhO",
+        "mangledName": "$s9MnicKoime5SucnhO",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Kniocuy",
+        "printedName": "Kniocuy",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Kniocuy",
+                "printedName": "MnicKoime.Kniocuy",
+                "usr": "s:9MnicKoime7KniocuyC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime7KniocuyC6sharedACvpZ",
+            "mangledName": "$s9MnicKoime7KniocuyC6sharedACvpZ",
+            "moduleName": "MnicKoime",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kniocuy",
+                    "printedName": "MnicKoime.Kniocuy",
+                    "usr": "s:9MnicKoime7KniocuyC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime7KniocuyC6sharedACvgZ",
+                "mangledName": "$s9MnicKoime7KniocuyC6sharedACvgZ",
+                "moduleName": "MnicKoime",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hcbusi",
+            "printedName": "hcbusi(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Sucnh",
+                "printedName": "MnicKoime.Sucnh",
+                "usr": "s:9MnicKoime5SucnhO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime7KniocuyC6hcbusiyyAA5SucnhOF",
+            "mangledName": "$s9MnicKoime7KniocuyC6hcbusiyyAA5SucnhOF",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9MnicKoime7KniocuyC",
+        "mangledName": "$s9MnicKoime7KniocuyC",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Jionct",
+        "printedName": "Jionct",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "execute",
+            "printedName": "execute()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime6JionctP7executeyyF",
+            "mangledName": "$s9MnicKoime6JionctP7executeyyF",
+            "moduleName": "MnicKoime",
+            "genericSig": "<τ_0_0 where τ_0_0 : MnicKoime.Jionct>",
+            "sugared_genericSig": "<Self where Self : MnicKoime.Jionct>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:9MnicKoime6JionctP",
+        "mangledName": "$s9MnicKoime6JionctP",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Gtcvus",
+        "printedName": "Gtcvus",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "run",
+            "printedName": "run(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Jionct",
+                "printedName": "any MnicKoime.Jionct",
+                "usr": "s:9MnicKoime6JionctP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime6GtcvusC3runyyAA6Jionct_pFZ",
+            "mangledName": "$s9MnicKoime6GtcvusC3runyyAA6Jionct_pFZ",
+            "moduleName": "MnicKoime",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Gtcvus",
+                "printedName": "MnicKoime.Gtcvus",
+                "usr": "s:9MnicKoime6GtcvusC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9MnicKoime6GtcvusCACycfc",
+            "mangledName": "$s9MnicKoime6GtcvusCACycfc",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9MnicKoime6GtcvusC",
+        "mangledName": "$s9MnicKoime6GtcvusC",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CMD_0",
+        "printedName": "CMD_0",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "execute",
+            "printedName": "execute()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime5CMD_0V7executeyyF",
+            "mangledName": "$s9MnicKoime5CMD_0V7executeyyF",
+            "moduleName": "MnicKoime",
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CMD_0",
+                "printedName": "MnicKoime.CMD_0",
+                "usr": "s:9MnicKoime5CMD_0V"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9MnicKoime5CMD_0VACycfc",
+            "mangledName": "$s9MnicKoime5CMD_0VACycfc",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:9MnicKoime5CMD_0V",
+        "mangledName": "$s9MnicKoime5CMD_0V",
+        "moduleName": "MnicKoime",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Jionct",
+            "printedName": "Jionct",
+            "usr": "s:9MnicKoime6JionctP",
+            "mangledName": "$s9MnicKoime6JionctP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CMD_1",
+        "printedName": "CMD_1",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "execute",
+            "printedName": "execute()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime5CMD_1V7executeyyF",
+            "mangledName": "$s9MnicKoime5CMD_1V7executeyyF",
+            "moduleName": "MnicKoime",
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CMD_1",
+                "printedName": "MnicKoime.CMD_1",
+                "usr": "s:9MnicKoime5CMD_1V"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9MnicKoime5CMD_1VACycfc",
+            "mangledName": "$s9MnicKoime5CMD_1VACycfc",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:9MnicKoime5CMD_1V",
+        "mangledName": "$s9MnicKoime5CMD_1V",
+        "moduleName": "MnicKoime",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Jionct",
+            "printedName": "Jionct",
+            "usr": "s:9MnicKoime6JionctP",
+            "mangledName": "$s9MnicKoime6JionctP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CMD_2",
+        "printedName": "CMD_2",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "execute",
+            "printedName": "execute()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime5CMD_2V7executeyyF",
+            "mangledName": "$s9MnicKoime5CMD_2V7executeyyF",
+            "moduleName": "MnicKoime",
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CMD_2",
+                "printedName": "MnicKoime.CMD_2",
+                "usr": "s:9MnicKoime5CMD_2V"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9MnicKoime5CMD_2VACycfc",
+            "mangledName": "$s9MnicKoime5CMD_2VACycfc",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:9MnicKoime5CMD_2V",
+        "mangledName": "$s9MnicKoime5CMD_2V",
+        "moduleName": "MnicKoime",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Jionct",
+            "printedName": "Jionct",
+            "usr": "s:9MnicKoime6JionctP",
+            "mangledName": "$s9MnicKoime6JionctP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "msnjdi",
+        "printedName": "msnjdi",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "e0",
+            "printedName": "e0",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MnicKoime.msnjdi.Type) -> MnicKoime.msnjdi",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "msnjdi",
+                    "printedName": "MnicKoime.msnjdi",
+                    "usr": "s:9MnicKoime6msnjdiO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MnicKoime.msnjdi.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "msnjdi",
+                        "printedName": "MnicKoime.msnjdi",
+                        "usr": "s:9MnicKoime6msnjdiO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9MnicKoime6msnjdiO2e0yA2CmF",
+            "mangledName": "$s9MnicKoime6msnjdiO2e0yA2CmF",
+            "moduleName": "MnicKoime",
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "e1",
+            "printedName": "e1",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MnicKoime.msnjdi.Type) -> MnicKoime.msnjdi",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "msnjdi",
+                    "printedName": "MnicKoime.msnjdi",
+                    "usr": "s:9MnicKoime6msnjdiO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MnicKoime.msnjdi.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "msnjdi",
+                        "printedName": "MnicKoime.msnjdi",
+                        "usr": "s:9MnicKoime6msnjdiO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9MnicKoime6msnjdiO2e1yA2CmF",
+            "mangledName": "$s9MnicKoime6msnjdiO2e1yA2CmF",
+            "moduleName": "MnicKoime",
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "msnjdi",
+                "printedName": "MnicKoime.msnjdi",
+                "usr": "s:9MnicKoime6msnjdiO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "msnjdi",
+                "printedName": "MnicKoime.msnjdi",
+                "usr": "s:9MnicKoime6msnjdiO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime6msnjdiO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s9MnicKoime6msnjdiO2eeoiySbAC_ACtFZ",
+            "moduleName": "MnicKoime",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime6msnjdiO9hashValueSivp",
+            "mangledName": "$s9MnicKoime6msnjdiO9hashValueSivp",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime6msnjdiO9hashValueSivg",
+                "mangledName": "$s9MnicKoime6msnjdiO9hashValueSivg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime6msnjdiO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s9MnicKoime6msnjdiO4hash4intoys6HasherVz_tF",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9MnicKoime6msnjdiO",
+        "mangledName": "$s9MnicKoime6msnjdiO",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Dicomhy",
+        "printedName": "Dicomhy",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dicomhy",
+                "printedName": "MnicKoime.Dicomhy",
+                "usr": "s:9MnicKoime7DicomhyC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime7DicomhyC6sharedACvpZ",
+            "mangledName": "$s9MnicKoime7DicomhyC6sharedACvpZ",
+            "moduleName": "MnicKoime",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dicomhy",
+                    "printedName": "MnicKoime.Dicomhy",
+                    "usr": "s:9MnicKoime7DicomhyC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime7DicomhyC6sharedACvgZ",
+                "mangledName": "$s9MnicKoime7DicomhyC6sharedACvgZ",
+                "moduleName": "MnicKoime",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "handlers",
+            "printedName": "handlers",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[(MnicKoime.msnjdi) -> ()]",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(MnicKoime.msnjdi) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "msnjdi",
+                        "printedName": "MnicKoime.msnjdi",
+                        "usr": "s:9MnicKoime6msnjdiO"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime7DicomhyC8handlers33_154EA0A3758BF937B02E1C8B3507F46BLLSayyAA6msnjdiOcGvp",
+            "mangledName": "$s9MnicKoime7DicomhyC8handlers33_154EA0A3758BF937B02E1C8B3507F46BLLSayyAA6msnjdiOcGvp",
+            "moduleName": "MnicKoime",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "niousbe",
+            "printedName": "niousbe(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MnicKoime.msnjdi) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "msnjdi",
+                    "printedName": "MnicKoime.msnjdi",
+                    "usr": "s:9MnicKoime6msnjdiO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime7DicomhyC7niousbeyyyAA6msnjdiOcF",
+            "mangledName": "$s9MnicKoime7DicomhyC7niousbeyyyAA6msnjdiOcF",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bxuiies",
+            "printedName": "bxuiies(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "msnjdi",
+                "printedName": "MnicKoime.msnjdi",
+                "usr": "s:9MnicKoime6msnjdiO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime7DicomhyC7bxuiiesyyAA6msnjdiOF",
+            "mangledName": "$s9MnicKoime7DicomhyC7bxuiiesyyAA6msnjdiOF",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9MnicKoime7DicomhyC",
+        "mangledName": "$s9MnicKoime7DicomhyC",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Deiyctp",
+        "printedName": "Deiyctp",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Deiyctp",
+                "printedName": "MnicKoime.Deiyctp",
+                "usr": "s:9MnicKoime7DeiyctpC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime7DeiyctpC6sharedACvpZ",
+            "mangledName": "$s9MnicKoime7DeiyctpC6sharedACvpZ",
+            "moduleName": "MnicKoime",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Deiyctp",
+                    "printedName": "MnicKoime.Deiyctp",
+                    "usr": "s:9MnicKoime7DeiyctpC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime7DeiyctpC6sharedACvgZ",
+                "mangledName": "$s9MnicKoime7DeiyctpC6sharedACvgZ",
+                "moduleName": "MnicKoime",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "registry",
+            "printedName": "registry",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.ObjectIdentifier : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime7DeiyctpC8registry33_154EA0A3758BF937B02E1C8B3507F46BLLSDySOypGvp",
+            "mangledName": "$s9MnicKoime7DeiyctpC8registry33_154EA0A3758BF937B02E1C8B3507F46BLLSDySOypGvp",
+            "moduleName": "MnicKoime",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "register",
+            "printedName": "register(_:instance:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "τ_0_0.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime7DeiyctpC8register_8instanceyxm_xtlF",
+            "mangledName": "$s9MnicKoime7DeiyctpC8register_8instanceyxm_xtlF",
+            "moduleName": "MnicKoime",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "resolve",
+            "printedName": "resolve(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "τ_0_0?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "τ_0_0.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime7DeiyctpC7resolveyxSgxmlF",
+            "mangledName": "$s9MnicKoime7DeiyctpC7resolveyxSgxmlF",
+            "moduleName": "MnicKoime",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9MnicKoime7DeiyctpC",
+        "mangledName": "$s9MnicKoime7DeiyctpC",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "Final",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Ecuin",
+        "printedName": "Ecuin",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "s1",
+            "printedName": "s1",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MnicKoime.Ecuin.Type) -> MnicKoime.Ecuin",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Ecuin",
+                    "printedName": "MnicKoime.Ecuin",
+                    "usr": "s:9MnicKoime5EcuinO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MnicKoime.Ecuin.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Ecuin",
+                        "printedName": "MnicKoime.Ecuin",
+                        "usr": "s:9MnicKoime5EcuinO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9MnicKoime5EcuinO2s1yA2CmF",
+            "mangledName": "$s9MnicKoime5EcuinO2s1yA2CmF",
+            "moduleName": "MnicKoime",
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "s2",
+            "printedName": "s2",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MnicKoime.Ecuin.Type) -> MnicKoime.Ecuin",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Ecuin",
+                    "printedName": "MnicKoime.Ecuin",
+                    "usr": "s:9MnicKoime5EcuinO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MnicKoime.Ecuin.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Ecuin",
+                        "printedName": "MnicKoime.Ecuin",
+                        "usr": "s:9MnicKoime5EcuinO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9MnicKoime5EcuinO2s2yA2CmF",
+            "mangledName": "$s9MnicKoime5EcuinO2s2yA2CmF",
+            "moduleName": "MnicKoime",
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Var",
+            "name": "s3",
+            "printedName": "s3",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MnicKoime.Ecuin.Type) -> MnicKoime.Ecuin",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Ecuin",
+                    "printedName": "MnicKoime.Ecuin",
+                    "usr": "s:9MnicKoime5EcuinO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MnicKoime.Ecuin.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Ecuin",
+                        "printedName": "MnicKoime.Ecuin",
+                        "usr": "s:9MnicKoime5EcuinO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9MnicKoime5EcuinO2s3yA2CmF",
+            "mangledName": "$s9MnicKoime5EcuinO2s3yA2CmF",
+            "moduleName": "MnicKoime",
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Var",
+            "name": "s4",
+            "printedName": "s4",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MnicKoime.Ecuin.Type) -> MnicKoime.Ecuin",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Ecuin",
+                    "printedName": "MnicKoime.Ecuin",
+                    "usr": "s:9MnicKoime5EcuinO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "MnicKoime.Ecuin.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Ecuin",
+                        "printedName": "MnicKoime.Ecuin",
+                        "usr": "s:9MnicKoime5EcuinO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9MnicKoime5EcuinO2s4yA2CmF",
+            "mangledName": "$s9MnicKoime5EcuinO2s4yA2CmF",
+            "moduleName": "MnicKoime",
+            "fixedbinaryorder": 3
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Ecuin",
+                "printedName": "MnicKoime.Ecuin",
+                "usr": "s:9MnicKoime5EcuinO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Ecuin",
+                "printedName": "MnicKoime.Ecuin",
+                "usr": "s:9MnicKoime5EcuinO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime5EcuinO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s9MnicKoime5EcuinO2eeoiySbAC_ACtFZ",
+            "moduleName": "MnicKoime",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime5EcuinO9hashValueSivp",
+            "mangledName": "$s9MnicKoime5EcuinO9hashValueSivp",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime5EcuinO9hashValueSivg",
+                "mangledName": "$s9MnicKoime5EcuinO9hashValueSivg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime5EcuinO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s9MnicKoime5EcuinO4hash4intoys6HasherVz_tF",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9MnicKoime5EcuinO",
+        "mangledName": "$s9MnicKoime5EcuinO",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Kicomty",
+        "printedName": "Kicomty",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Kicomty",
+                "printedName": "MnicKoime.Kicomty",
+                "usr": "s:9MnicKoime7KicomtyC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime7KicomtyC6sharedACvpZ",
+            "mangledName": "$s9MnicKoime7KicomtyC6sharedACvpZ",
+            "moduleName": "MnicKoime",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kicomty",
+                    "printedName": "MnicKoime.Kicomty",
+                    "usr": "s:9MnicKoime7KicomtyC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime7KicomtyC6sharedACvgZ",
+                "mangledName": "$s9MnicKoime7KicomtyC6sharedACvgZ",
+                "moduleName": "MnicKoime",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "state",
+            "printedName": "state",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Ecuin",
+                "printedName": "MnicKoime.Ecuin",
+                "usr": "s:9MnicKoime5EcuinO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime7KicomtyC5stateAA5EcuinOvp",
+            "mangledName": "$s9MnicKoime7KicomtyC5stateAA5EcuinOvp",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "SetterAccess"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Ecuin",
+                    "printedName": "MnicKoime.Ecuin",
+                    "usr": "s:9MnicKoime5EcuinO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime7KicomtyC5stateAA5EcuinOvg",
+                "mangledName": "$s9MnicKoime7KicomtyC5stateAA5EcuinOvg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "trisnd",
+            "printedName": "trisnd(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Ecuin",
+                "printedName": "MnicKoime.Ecuin",
+                "usr": "s:9MnicKoime5EcuinO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime7KicomtyC6trisndyyAA5EcuinOF",
+            "mangledName": "$s9MnicKoime7KicomtyC6trisndyyAA5EcuinOF",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9MnicKoime7KicomtyC",
+        "mangledName": "$s9MnicKoime7KicomtyC",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MnicKoime"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MnicKoime"
+      },
+      {
+        "kind": "Function",
+        "name": "WOuuckoe",
+        "printedName": "WOuuckoe(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Optional",
+            "printedName": "Swift.String?",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:Sq"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9MnicKoime8WOuuckoeySSSgSSF",
+        "mangledName": "$s9MnicKoime8WOuuckoeySSSgSSF",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "kNbcgues",
+        "printedName": "kNbcgues",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9MnicKoime8kNbcguesSSvp",
+        "mangledName": "$s9MnicKoime8kNbcguesSSvp",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Fctre",
+        "printedName": "Fctre",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "bdsiys",
+            "printedName": "bdsiys",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime5FctreV6bdsiysSSSgvp",
+            "mangledName": "$s9MnicKoime5FctreV6bdsiysSSSgvp",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime5FctreV6bdsiysSSSgvg",
+                "mangledName": "$s9MnicKoime5FctreV6bdsiysSSSgvg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "mcknie",
+            "printedName": "mcknie",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime5FctreV6mcknieSSSgvp",
+            "mangledName": "$s9MnicKoime5FctreV6mcknieSSSgvp",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime5FctreV6mcknieSSSgvg",
+                "mangledName": "$s9MnicKoime5FctreV6mcknieSSSgvg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(bdsiys:mcknie:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Fctre",
+                "printedName": "MnicKoime.Fctre",
+                "usr": "s:9MnicKoime5FctreV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9MnicKoime5FctreV6bdsiys6mcknieACSSSg_AFtcfc",
+            "mangledName": "$s9MnicKoime5FctreV6bdsiys6mcknieACSSSg_AFtcfc",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Fctre",
+                "printedName": "MnicKoime.Fctre",
+                "usr": "s:9MnicKoime5FctreV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9MnicKoime5FctreV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s9MnicKoime5FctreV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime5FctreV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s9MnicKoime5FctreV6encode2toys7Encoder_p_tKF",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:9MnicKoime5FctreV",
+        "mangledName": "$s9MnicKoime5FctreV",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "Iocmksge",
+        "printedName": "Iocmksge()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9MnicKoime8IocmksgeyyF",
+        "mangledName": "$s9MnicKoime8IocmksgeyyF",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "yduiHinux",
+        "printedName": "yduiHinux",
+        "children": [
+          {
+            "kind": "TypeFunc",
+            "name": "Function",
+            "printedName": "() -> ()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ]
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9MnicKoime9yduiHinuxyycvp",
+        "mangledName": "$s9MnicKoime9yduiHinuxyycvp",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Function",
+        "name": "mcijoy",
+        "printedName": "mcijoy()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9MnicKoime6mcijoyyyF",
+        "mangledName": "$s9MnicKoime6mcijoyyyF",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "Exiusn",
+        "printedName": "Exiusn",
+        "children": [
+          {
+            "kind": "TypeFunc",
+            "name": "Function",
+            "printedName": "() -> Swift.Int",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ]
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9MnicKoime6ExiusnSiycvp",
+        "mangledName": "$s9MnicKoime6ExiusnSiycvp",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "Sbncxy",
+        "printedName": "Sbncxy",
+        "children": [
+          {
+            "kind": "TypeFunc",
+            "name": "Function",
+            "printedName": "() -> Swift.Bool",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ]
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9MnicKoime6SbncxySbycvp",
+        "mangledName": "$s9MnicKoime6SbncxySbycvp",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Function",
+        "name": "Nociytsve",
+        "printedName": "Nociytsve()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9MnicKoime9NociytsveyyF",
+        "mangledName": "$s9MnicKoime9NociytsveyyF",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Eucuys",
+        "printedName": "Eucuys",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "cnhduye",
+            "printedName": "cnhduye(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<MnicKoime.Fctre, any Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<MnicKoime.Fctre, any Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Fctre",
+                        "printedName": "MnicKoime.Fctre",
+                        "usr": "s:9MnicKoime5FctreV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime6EucuysP7cnhduye10completionyys6ResultOyAA5FctreVs5Error_pGc_tF",
+            "mangledName": "$s9MnicKoime6EucuysP7cnhduye10completionyys6ResultOyAA5FctreVs5Error_pGc_tF",
+            "moduleName": "MnicKoime",
+            "genericSig": "<τ_0_0 where τ_0_0 : MnicKoime.Eucuys>",
+            "sugared_genericSig": "<Self where Self : MnicKoime.Eucuys>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:9MnicKoime6EucuysP",
+        "mangledName": "$s9MnicKoime6EucuysP",
+        "moduleName": "MnicKoime",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Vicouyde",
+        "printedName": "Vicouyde",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "cnhduye",
+            "printedName": "cnhduye(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<MnicKoime.Fctre, any Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<MnicKoime.Fctre, any Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Fctre",
+                        "printedName": "MnicKoime.Fctre",
+                        "usr": "s:9MnicKoime5FctreV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime8VicouydeC7cnhduye10completionyys6ResultOyAA5FctreVs5Error_pGc_tF",
+            "mangledName": "$s9MnicKoime8VicouydeC7cnhduye10completionyys6ResultOyAA5FctreVs5Error_pGc_tF",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Vicouyde",
+                "printedName": "MnicKoime.Vicouyde",
+                "usr": "s:9MnicKoime8VicouydeC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9MnicKoime8VicouydeCACycfc",
+            "mangledName": "$s9MnicKoime8VicouydeCACycfc",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9MnicKoime8VicouydeC",
+        "mangledName": "$s9MnicKoime8VicouydeC",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "Final",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Eucuys",
+            "printedName": "Eucuys",
+            "usr": "s:9MnicKoime6EucuysP",
+            "mangledName": "$s9MnicKoime6EucuysP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MnicKoime"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MainSimulationKep",
+        "printedName": "MainSimulationKep",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "morselStore",
+            "printedName": "morselStore",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime17MainSimulationKepC11morselStoreSivp",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC11morselStoreSivp",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC11morselStoreSivg",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC11morselStoreSivg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC11morselStoreSivs",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC11morselStoreSivs",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC11morselStoreSivM",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC11morselStoreSivM",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "gathererCritterCount",
+            "printedName": "gathererCritterCount",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime17MainSimulationKepC20gathererCritterCountSivp",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC20gathererCritterCountSivp",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC20gathererCritterCountSivg",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC20gathererCritterCountSivg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC20gathererCritterCountSivs",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC20gathererCritterCountSivs",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC20gathererCritterCountSivM",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC20gathererCritterCountSivM",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "pincerCritterCount",
+            "printedName": "pincerCritterCount",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime17MainSimulationKepC18pincerCritterCountSivp",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC18pincerCritterCountSivp",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 2,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC18pincerCritterCountSivg",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC18pincerCritterCountSivg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC18pincerCritterCountSivs",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC18pincerCritterCountSivs",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC18pincerCritterCountSivM",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC18pincerCritterCountSivM",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "denRank",
+            "printedName": "denRank",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime17MainSimulationKepC7denRankSivp",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC7denRankSivp",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 3,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC7denRankSivg",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC7denRankSivg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC7denRankSivs",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC7denRankSivs",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC7denRankSivM",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC7denRankSivM",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isMenaceActive",
+            "printedName": "isMenaceActive",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime17MainSimulationKepC14isMenaceActiveSbvp",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC14isMenaceActiveSbvp",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 4,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC14isMenaceActiveSbvg",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC14isMenaceActiveSbvg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC14isMenaceActiveSbvs",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC14isMenaceActiveSbvs",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC14isMenaceActiveSbvM",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC14isMenaceActiveSbvM",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "currentMenacePower",
+            "printedName": "currentMenacePower",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime17MainSimulationKepC18currentMenacePowerSivp",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC18currentMenacePowerSivp",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 5,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC18currentMenacePowerSivg",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC18currentMenacePowerSivg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC18currentMenacePowerSivs",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC18currentMenacePowerSivs",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC18currentMenacePowerSivM",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC18currentMenacePowerSivM",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "menaceArrivalTick",
+            "printedName": "menaceArrivalTick",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime17MainSimulationKepC17menaceArrivalTickSdvp",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC17menaceArrivalTickSdvp",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 6,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC17menaceArrivalTickSdvg",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC17menaceArrivalTickSdvg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC17menaceArrivalTickSdvs",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC17menaceArrivalTickSdvs",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC17menaceArrivalTickSdvM",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC17menaceArrivalTickSdvM",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "maxTotalCritters",
+            "printedName": "maxTotalCritters",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime17MainSimulationKepC16maxTotalCrittersSivp",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC16maxTotalCrittersSivp",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC16maxTotalCrittersSivg",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC16maxTotalCrittersSivg",
+                "moduleName": "MnicKoime",
+                "isOpen": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "totalCritters",
+            "printedName": "totalCritters",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime17MainSimulationKepC13totalCrittersSivp",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC13totalCrittersSivp",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC13totalCrittersSivg",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC13totalCrittersSivg",
+                "moduleName": "MnicKoime",
+                "isOpen": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "onStateChanged",
+            "printedName": "onStateChanged",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime17MainSimulationKepC14onStateChangedyycSgvp",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC14onStateChangedyycSgvp",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 7,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC14onStateChangedyycSgvg",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC14onStateChangedyycSgvg",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC14onStateChangedyycSgvs",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC14onStateChangedyycSgvs",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime17MainSimulationKepC14onStateChangedyycSgvM",
+                "mangledName": "$s9MnicKoime17MainSimulationKepC14onStateChangedyycSgvM",
+                "moduleName": "MnicKoime",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "harvestNibble",
+            "printedName": "harvestNibble()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime17MainSimulationKepC13harvestNibbleyyF",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC13harvestNibbleyyF",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "spawnGathererCritter",
+            "printedName": "spawnGathererCritter()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime17MainSimulationKepC20spawnGathererCritterSbyF",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC20spawnGathererCritterSbyF",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "spawnPincerCritter",
+            "printedName": "spawnPincerCritter()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime17MainSimulationKepC18spawnPincerCritterSbyF",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC18spawnPincerCritterSbyF",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "expandDen",
+            "printedName": "expandDen()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime17MainSimulationKepC9expandDenSbyF",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC9expandDenSbyF",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "repelInvader",
+            "printedName": "repelInvader()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Tuple",
+                "printedName": "(success: Swift.Bool, message: Swift.String)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime17MainSimulationKepC12repelInvaderSb7success_SS7messagetyF",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC12repelInvaderSb7success_SS7messagetyF",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "performWorldTick",
+            "printedName": "performWorldTick()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime17MainSimulationKepC16performWorldTickyyF",
+            "mangledName": "$s9MnicKoime17MainSimulationKepC16performWorldTickyyF",
+            "moduleName": "MnicKoime",
+            "isOpen": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MainSimulationKep",
+                "printedName": "MnicKoime.MainSimulationKep",
+                "usr": "s:9MnicKoime17MainSimulationKepC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9MnicKoime17MainSimulationKepCACycfc",
+            "mangledName": "$s9MnicKoime17MainSimulationKepCACycfc",
+            "moduleName": "MnicKoime",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9MnicKoime17MainSimulationKepC",
+        "mangledName": "$s9MnicKoime17MainSimulationKepC",
+        "moduleName": "MnicKoime",
+        "isOpen": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FloatingMessageBubble",
+        "printedName": "FloatingMessageBubble",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "messageLabel",
+            "printedName": "messageLabel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UILabel",
+                "printedName": "UIKit.UILabel",
+                "usr": "c:objc(cs)UILabel"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime21FloatingMessageBubbleC12messageLabel33_E3A2DB073EB7D572CCCD34CEA3408ADALLSo7UILabelCvp",
+            "mangledName": "$s9MnicKoime21FloatingMessageBubbleC12messageLabel33_E3A2DB073EB7D572CCCD34CEA3408ADALLSo7UILabelCvp",
+            "moduleName": "MnicKoime",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(message:in:duration:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FloatingMessageBubble",
+                "printedName": "MnicKoime.FloatingMessageBubble",
+                "usr": "c:@M@MnicKoime@objc(cs)FloatingMessageBubble"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "hasDefaultArg": true,
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9MnicKoime21FloatingMessageBubbleC7message2in8durationACSS_So6UIViewCSdtcfc",
+            "mangledName": "$s9MnicKoime21FloatingMessageBubbleC7message2in8durationACSS_So6UIViewCSdtcfc",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MnicKoime.FloatingMessageBubble?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FloatingMessageBubble",
+                    "printedName": "MnicKoime.FloatingMessageBubble",
+                    "usr": "c:@M@MnicKoime@objc(cs)FloatingMessageBubble"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MnicKoime@objc(cs)FloatingMessageBubble(im)initWithCoder:",
+            "mangledName": "$s9MnicKoime21FloatingMessageBubbleC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "MnicKoime",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FloatingMessageBubble",
+                "printedName": "MnicKoime.FloatingMessageBubble",
+                "usr": "c:@M@MnicKoime@objc(cs)FloatingMessageBubble"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MnicKoime@objc(cs)FloatingMessageBubble(im)initWithFrame:",
+            "mangledName": "$s9MnicKoime21FloatingMessageBubbleC5frameACSo6CGRectV_tcfc",
+            "moduleName": "MnicKoime",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MnicKoime@objc(cs)FloatingMessageBubble",
+        "mangledName": "$s9MnicKoime21FloatingMessageBubbleC",
+        "moduleName": "MnicKoime",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NestingPlaygroundView",
+        "printedName": "NestingPlaygroundView",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NestingPlaygroundView",
+                "printedName": "MnicKoime.NestingPlaygroundView",
+                "usr": "c:@M@MnicKoime@objc(cs)NestingPlaygroundView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MnicKoime@objc(cs)NestingPlaygroundView(im)initWithFrame:",
+            "mangledName": "$s9MnicKoime21NestingPlaygroundViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "MnicKoime",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MnicKoime.NestingPlaygroundView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NestingPlaygroundView",
+                    "printedName": "MnicKoime.NestingPlaygroundView",
+                    "usr": "c:@M@MnicKoime@objc(cs)NestingPlaygroundView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MnicKoime@objc(cs)NestingPlaygroundView(im)initWithCoder:",
+            "mangledName": "$s9MnicKoime21NestingPlaygroundViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "MnicKoime",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MnicKoime@objc(cs)NestingPlaygroundView",
+        "mangledName": "$s9MnicKoime21NestingPlaygroundViewC",
+        "moduleName": "MnicKoime",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MnicKoime"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "MnicKoime"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Jicnyvy",
+        "printedName": "Jicnyvy",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "view",
+            "printedName": "view",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime7JicnyvyP4viewSo6UIViewCvp",
+            "mangledName": "$s9MnicKoime7JicnyvyP4viewSo6UIViewCvp",
+            "moduleName": "MnicKoime",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime7JicnyvyP4viewSo6UIViewCvg",
+                "mangledName": "$s9MnicKoime7JicnyvyP4viewSo6UIViewCvg",
+                "moduleName": "MnicKoime",
+                "genericSig": "<τ_0_0 where τ_0_0 : MnicKoime.Jicnyvy>",
+                "sugared_genericSig": "<Self where Self : MnicKoime.Jicnyvy>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "uciyehs",
+            "printedName": "uciyehs(u:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime7JicnyvyP7uciyehs1uy10Foundation3URLV_tF",
+            "mangledName": "$s9MnicKoime7JicnyvyP7uciyehs1uy10Foundation3URLV_tF",
+            "moduleName": "MnicKoime",
+            "genericSig": "<τ_0_0 where τ_0_0 : MnicKoime.Jicnyvy>",
+            "sugared_genericSig": "<Self where Self : MnicKoime.Jicnyvy>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime7JicnyvyP4stopyyF",
+            "mangledName": "$s9MnicKoime7JicnyvyP4stopyyF",
+            "moduleName": "MnicKoime",
+            "genericSig": "<τ_0_0 where τ_0_0 : MnicKoime.Jicnyvy>",
+            "sugared_genericSig": "<Self where Self : MnicKoime.Jicnyvy>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:9MnicKoime7JicnyvyP",
+        "mangledName": "$s9MnicKoime7JicnyvyP",
+        "moduleName": "MnicKoime",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Tciicbsy",
+        "printedName": "Tciicbsy",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "wv",
+            "printedName": "wv",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime8TciicbsyC2wv33_BBA8B7C2E7A1EC1005E0CCEF73E1B864LLSo9WKWebViewCSgvp",
+            "mangledName": "$s9MnicKoime8TciicbsyC2wv33_BBA8B7C2E7A1EC1005E0CCEF73E1B864LLSo9WKWebViewCSgvp",
+            "moduleName": "MnicKoime",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "hsiuos",
+            "printedName": "hsiuos",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime8TciicbsyC6hsiuos33_BBA8B7C2E7A1EC1005E0CCEF73E1B864LLSSvp",
+            "mangledName": "$s9MnicKoime8TciicbsyC6hsiuos33_BBA8B7C2E7A1EC1005E0CCEF73E1B864LLSSvp",
+            "moduleName": "MnicKoime",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "view",
+            "printedName": "view",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9MnicKoime8TciicbsyC4viewSo6UIViewCvp",
+            "mangledName": "$s9MnicKoime8TciicbsyC4viewSo6UIViewCvp",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "Final"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9MnicKoime8TciicbsyC4viewSo6UIViewCvg",
+                "mangledName": "$s9MnicKoime8TciicbsyC4viewSo6UIViewCvg",
+                "moduleName": "MnicKoime",
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "uciyehs",
+            "printedName": "uciyehs(u:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime8TciicbsyC7uciyehs1uy10Foundation3URLV_tF",
+            "mangledName": "$s9MnicKoime8TciicbsyC7uciyehs1uy10Foundation3URLV_tF",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9MnicKoime8TciicbsyC4stopyyF",
+            "mangledName": "$s9MnicKoime8TciicbsyC4stopyyF",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Tciicbsy",
+                "printedName": "MnicKoime.Tciicbsy",
+                "usr": "c:@M@MnicKoime@objc(cs)Tciicbsy"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MnicKoime@objc(cs)Tciicbsy(im)init",
+            "mangledName": "$s9MnicKoime8TciicbsyCACycfc",
+            "moduleName": "MnicKoime",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:decidePolicyFor:decisionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(WebKit.WKNavigationActionPolicy) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKNavigationActionPolicy",
+                    "printedName": "WebKit.WKNavigationActionPolicy",
+                    "usr": "c:@E@WKNavigationActionPolicy"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MnicKoime@objc(cs)Tciicbsy(im)webView:decidePolicyForNavigationAction:decisionHandler:",
+            "mangledName": "$s9MnicKoime8TciicbsyC7webView_15decidePolicyFor15decisionHandlerySo05WKWebE0C_So18WKNavigationActionCySo0lmG0VctF",
+            "moduleName": "MnicKoime",
+            "objc_name": "webView:decidePolicyForNavigationAction:decisionHandler:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:createWebViewWith:for:windowFeatures:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebViewConfiguration",
+                "printedName": "WebKit.WKWebViewConfiguration",
+                "usr": "c:objc(cs)WKWebViewConfiguration"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWindowFeatures",
+                "printedName": "WebKit.WKWindowFeatures",
+                "usr": "c:objc(cs)WKWindowFeatures"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MnicKoime@objc(cs)Tciicbsy(im)webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "mangledName": "$s9MnicKoime8TciicbsyC7webView_09createWebE4With3for14windowFeaturesSo05WKWebE0CSgAI_So0lE13ConfigurationCSo18WKNavigationActionCSo08WKWindowK0CtF",
+            "moduleName": "MnicKoime",
+            "objc_name": "webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MnicKoime@objc(cs)Tciicbsy",
+        "mangledName": "$s9MnicKoime8TciicbsyC",
+        "moduleName": "MnicKoime",
+        "declAttributes": [
+          "Final",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Jicnyvy",
+            "printedName": "Jicnyvy",
+            "usr": "s:9MnicKoime7JicnyvyP",
+            "mangledName": "$s9MnicKoime7JicnyvyP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIColor",
+        "printedName": "UIColor",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hex:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC9MnicKoimeE3hexABSS_tcfc",
+            "mangledName": "$sSo7UIColorC9MnicKoimeE3hexABSS_tcfc",
+            "moduleName": "MnicKoime",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIColor",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIColor",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByColorLiteral",
+            "printedName": "_ExpressibleByColorLiteral",
+            "usr": "s:s26_ExpressibleByColorLiteralP",
+            "mangledName": "$ss26_ExpressibleByColorLiteralP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UserDefaults",
+        "printedName": "UserDefaults",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "setModel",
+            "printedName": "setModel(_:forKey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So14NSUserDefaultsC9MnicKoimeE8setModel_6forKeyyx_SStSeRzSERzlF",
+            "mangledName": "$sSo14NSUserDefaultsC9MnicKoimeE8setModel_6forKeyyx_SStSeRzSERzlF",
+            "moduleName": "MnicKoime",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable, τ_0_0 : Swift.Encodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable, T : Swift.Encodable>",
+            "isOpen": true,
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getModel",
+            "printedName": "getModel(_:forKey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "τ_0_0?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "τ_0_0.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So14NSUserDefaultsC9MnicKoimeE8getModel_6forKeyxSgxm_SStSeRzSERzlF",
+            "mangledName": "$sSo14NSUserDefaultsC9MnicKoimeE8getModel_6forKeyxSgxm_SStSeRzSERzlF",
+            "moduleName": "MnicKoime",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable, τ_0_0 : Swift.Encodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable, T : Swift.Encodable>",
+            "isOpen": true,
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)NSUserDefaults",
+        "moduleName": "Foundation",
+        "isOpen": true,
+        "objc_name": "NSUserDefaults",
+        "declAttributes": [
+          "ObjC",
+          "NonSendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/ChainConnectView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2044,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kniocuy.swift",
+      "kind": "Array",
+      "offset": 1044,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kniocuy.swift",
+      "kind": "Dictionary",
+      "offset": 1469,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kobztye.swift",
+      "kind": "StringLiteral",
+      "offset": 570,
+      "length": 98,
+      "value": "\"DA8MXQleD1pfXg4EDA4BWFVjSE9TTFVMXQMTDAwMXV8MDg9fDgoLWgkKE1dfU1ETSFlSEkhPU0xVTF0SV19TURMTBk9MSEhU\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kobztye.swift",
+      "kind": "StringLiteral",
+      "offset": 1556,
+      "length": 6,
+      "value": "\"eHU=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kobztye.swift",
+      "kind": "StringLiteral",
+      "offset": 1578,
+      "length": 6,
+      "value": "\"cmo=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kobztye.swift",
+      "kind": "StringLiteral",
+      "offset": 1600,
+      "length": 6,
+      "value": "\"dGw=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kobztye.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2681,
+      "length": 10,
+      "value": "1781145743"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kobztye.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2856,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kobztye.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2860,
+      "length": 3,
+      "value": "265"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kobztye.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2866,
+      "length": 3,
+      "value": "187"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kobztye.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3374,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kobztye.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3802,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Kobztye.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3903,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/NestingPlaygroundView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 145,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/NestingPlaygroundView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 184,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/NestingPlaygroundView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 220,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/NestingPlaygroundView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 245,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/NestingPlaygroundView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 278,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/NestingPlaygroundView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 318,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/NestingPlaygroundView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 362,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/NestingPlaygroundView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6190,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/NestingPlaygroundView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6239,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/NestingPlaygroundView.swift",
+      "kind": "FloatLiteral",
+      "offset": 6386,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0609-4\/MnicKoime\/MnicKoime\/Tciicbsy.swift",
+      "kind": "StringLiteral",
+      "offset": 296,
+      "length": 2,
+      "value": "\"\""
+    }
+  ]
+}
